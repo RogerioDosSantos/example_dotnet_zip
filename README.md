@@ -1,2 +1,9 @@
-# example_dotnet_zip
-Example on how to zip files
+# .Net Zip Example
+
+Uses .Net Core to zip and unzip folders
+
+## Build
+
+``` bash
+dotnet build
+``` 
